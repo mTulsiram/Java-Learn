@@ -4,7 +4,6 @@ public class MathApp {
 
         double aa = Math.pow(a , 2);
         double bb = Math.pow(b , 2);
-
         return Math.sqrt(aa + bb);
 
     }
@@ -31,7 +30,4 @@ public class MathApp {
         System.out.println(ra );
         System.out.println(ce);
     }
-
-
-
 }
